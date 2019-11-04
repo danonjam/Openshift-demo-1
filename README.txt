@@ -1,0 +1,1 @@
+This apps is demonistration how to build and deploy your apps in Openshift.
